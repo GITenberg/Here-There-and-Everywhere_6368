@@ -1,0 +1,26 @@
+_repo: Here-There-and-Everywhere_6368
+creator:
+  author:
+    agent_name: Hamilton, Frederic, Lord
+    aliases:
+    - Hamilton, Frederick Spencer, Lord
+    - Hamilton, Frederick Spenser, Lord
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '1323'
+    url: http://www.gutenberg.org/2009/agents/1323
+    wikipedia: http://en.wikipedia.org/wiki/Lord_Frederick_Spencer_Hamilton
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+title: Here, There and Everywhere
+url: http://www.gutenberg.org/ebooks/6368
